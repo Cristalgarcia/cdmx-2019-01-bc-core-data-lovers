@@ -133,10 +133,10 @@ Acorde al análisis heurístico y pruebas de usabilidad se realizaron los siguie
 - El background-image conformado por un wallpaper del juego fue modificado por un fondo negro con textura debido a que la anterior imagen mostraba un texto que era obstruido por el contenido y era difícil de leer.
 - El footer presenta dos secciones nuevas para brindar información complementaria del juego. 
 
+![Home](https://github.com/Cristalgarcia/cdmx-2019-01-bc-core-data-lovers/blob/master/src/assets/Cambios_lol_home.PNG)
 
-![Home]
 
 - Las tarjetas de información de los campeones presentaron como cambio la eliminación de bordes para no ser interpretados como botones.
 
-![Tarjetas]
+![Tarjetas](https://github.com/Cristalgarcia/cdmx-2019-01-bc-core-data-lovers/blob/master/src/assets/Cambios_lol_tarjetas.PNG)
 
